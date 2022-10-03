@@ -6,13 +6,19 @@ I am a self-motivated Front End Developer who began her HTML/CSS journey in the 
 
 Since March 2022 till date, I have been coding daily.
 
-I am familiar with PHP fundamentals and MySQL but have chosen to stick with JavaScript and it Frameworks. I hope to become a full stack developer building projects with NestJS.
+I am familiar with PHP fundamentals and MySQL but have chosen to stick with JavaScript and it frameworks. 
+
+Objective: to become a full stack developer building awesome applications with NestJS.
 
 Area of Competence:
 
 • React JS applications: API projects.
 
-• HTML5, CSS3 and ECMAScript applications: these applications consists of single page only. While other pages are built as components, and when navigated/visited get updated on the index.html just like React JS.
+• HTML5, CSS3 and ECMAScript applications: these applications consists of single page only. While other pages are built as components, and when navigated/visited get updated on the single page (index.html) just like React JS.
 
 My portfolio is at:
 https://eseodiase.website/
+
+My programming code NFTs are available on OpenSea. Make an offer ↓
+https://opensea.io/collection/ese-odiase-web-app-collections
+
