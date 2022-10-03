@@ -11,6 +11,7 @@ I am familiar with PHP fundamentals and MySQL but have chosen to stick with Java
 Area of Competence:
 
 • React JS applications: API projects.
+
 • HTML5, CSS3 and ECMAScript applications: these applications consists of single page only. While other pages built as components when navigated/visited get updated on the index.html just like React JS.
 
 My portfolio is at:
