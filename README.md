@@ -14,7 +14,7 @@ Area of Competence:
 
 • React JS applications: API projects.
 
-• HTML5, CSS3 and ECMAScript applications: these applications consists of single page only. While other pages are built as components, and when navigated/visited get updated on the single page (index.html) just like React JS.
+• HTML5, CSS3 and ECMAScript applications: these applications have just a single page. Other pages are therefore built as components, and when navigated or visited get updated on the single page (index.html) just like React JS.
 
 My portfolio is at:
 https://eseodiase.website/
