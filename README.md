@@ -6,7 +6,7 @@
 
 🚀 I’m looking for a junior or entry-level frontend developer role where I can contribute, grow, and learn from a team of experienced developers.
 
-📫 You can reach me at: (My email address)[reacheseodiase@gmail.com)
+📫 You can reach me at: [My email address](reacheseodiase@gmail.com)
 
 🔧 Tech Stack:
 HTML • CSS • JavaScript • Git • Responsive Design
