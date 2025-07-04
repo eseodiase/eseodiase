@@ -1,31 +1,12 @@
-Hello, welcome to my README page, my name is Ese Odiase.
+👋 Hi, I'm Ese Odiase: a self-taught frontend developer passionate about turning ideas into interactive, user-friendly web experiences.
 
-I am from Benin city, Edo state, Nigeria. I love to call myself Upscaling Developer, reason being that I enjoy learning and improving my development skills with every opportunity I get.
+💻 I’m currently sharpening my skills through real-world challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/eseodiase), where I build responsive and accessible websites using HTML, CSS, and JavaScript.
 
-I am a self-motivated Front End Developer who began her HTML/CSS journey in the year 2017 while working a job as a Personal Assistant in Lagos, Nigeria.
+🌱 I'm continuously learning modern frontend tools and frameworks like React, Git, and Sass, while practicing clean, maintainable code.
 
-Since March 2022 till date, I have been coding daily.
+🚀 I’m looking for a junior or entry-level frontend developer role where I can contribute, grow, and learn from a team of experienced developers.
 
-I am familiar with PHP fundamentals and MySQL but have chosen to stick with JavaScript and it frameworks. 
+📫 You can reach me at: (My email address)[reacheseodiase@gmail.com)
 
-Objective: to become a full stack developer building awesome applications with NestJS.
-
-Area of Competence:
-
-• React JS applications: API projects.
-
-• HTML5, CSS3 and ECMAScript applications: these applications have just a single page. Other pages are therefore built as components, and when navigated or visited get updated on the single page (index.html).
-
-My portfolio is at:
-https://eseodiase.website/
-
-My programming code NFTs are available on OpenSea. Make an offer ↓
-https://opensea.io/collection/ese-odiase-web-app-collections
-
-CREATIVE HASHTAGS:
-
-#WebAppNFTs
-#ProgrammingCodeNFTs
-#designbyese 
-#developedbyese
-
+🔧 Tech Stack:
+HTML • CSS • JavaScript • Git • Responsive Design
